@@ -26,7 +26,7 @@ public class Calculateclass {
 
 	public static void main(String[] args) {
 		Calculateclass cu=new Calculateclass();
-		cu.sub();
+		cu.mult();
 		
 		// TODO Auto-generated method stub
 
