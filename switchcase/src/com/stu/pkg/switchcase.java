@@ -3,7 +3,7 @@ package com.stu.pkg;
 public class switchcase {
 	public static void main(String args[]) 
 	{
-		int month=6;
+		int month=15;
 		switch(month) 
 		{
 		case 1 :
