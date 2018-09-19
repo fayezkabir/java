@@ -21,7 +21,7 @@ public static void main(String args[])
 {
  overload obj=new overload();
  obj.add(2,3,4);
- obj.add(6,5.2);
+ obj.add(6,5.2f);
  obj.add(3,1);
 }
 }
