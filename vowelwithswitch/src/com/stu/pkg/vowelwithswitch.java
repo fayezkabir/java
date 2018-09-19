@@ -8,12 +8,12 @@ public static void main(String args[])
 	switch(z) {
 	case 'a':
 		{
-			System.out.println("this letter " +z+ " is vowel");
+			System.out.println("this letter "  +z+  " is vowel");
 			break ;
 		}
 	case 'e':
 	{
-		System.out.println("this letter"+z+"is vowel");
+		System.out.println("this letter" +z+" is vowel");
 		break ;
 	}
 	case 'i':
@@ -33,7 +33,7 @@ public static void main(String args[])
 	}
 	default:
 	{
-		System.out.println("this letter"+z+"is not being borned");
+		System.out.println("this letter " + z + " is not being borned");
 	}
 		
 			  }
