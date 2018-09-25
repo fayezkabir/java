@@ -9,26 +9,18 @@ public class Switch_holiday_userinput {
 		int holi=input.nextInt();
 		switch (holi) 
 		{
-		case 1 :
-		{
-			
-		}
-		case 2:{
-			
-		}
-		
-		
+		case 1:
+		case 2:
+		case 3:
+		case 4:
 		case 5 :
-		{
-			System.out.println("working day");
-			break;
-		}
+			System.out.println("working day_this is water fall technology");
+			break;				
 		default :
-		{
 			System.out.println("holi day");
 			break;
 		}
-		}
+		
 	}
 	
 }
