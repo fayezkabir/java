@@ -1,5 +1,7 @@
 package com.stu.pkg;
 
-public class Rafwork{
+public class Rafwork
+{
+	
 	
 }
