@@ -1,9 +1,9 @@
-package com.stu.pkg;
+package com.stu.org;
 
 import java.util.Scanner;
 
-public class Rafwork
-{
+public class AddUsingUser {
+
 	public static void main(String[] args) 
 	{
 		Scanner input1=new Scanner(System.in);
@@ -23,5 +23,4 @@ public class Rafwork
 		
 		
 	}
-	
 }
